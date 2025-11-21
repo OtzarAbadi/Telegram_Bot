@@ -1,5 +1,3 @@
-package org.example;
-
 public class Answer {
     private String text;
     private int id;
